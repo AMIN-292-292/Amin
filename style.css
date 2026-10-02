@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    overflow: hidden;
+}
+
+.div1 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+
+
+
+
+}
+
+.div2 {
+    width: 200px;
+    height: 200px;
+    background-color: lime;
+
+
+}
+
+.div3 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+}
+
+.div4 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+
+}
+
+.amin{
+display: inline-block;
+}
+.amin:hover{
+    display: block;
+    background-color: chartreuse;
+}
